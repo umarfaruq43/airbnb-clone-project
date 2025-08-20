@@ -96,7 +96,29 @@ By completing this project, you will:
 
 ---
 
-## 🎨 Importance of User-Friendly Design
+### 🎨 Importance of User-Friendly Design
 
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction.  
 Clear navigation, intuitive interfaces, and responsive design are critical for success.
+
+---
+
+## UI/UX Design Planning
+
+### Color Styles
+
+-   **Primary:** #FF5A5F
+-   **Secondary:** #008489
+-   **Background:** #FFFFFF
+-   **Text:** #222222
+-   **Secondary Text:** #717171
+
+### Typography
+
+-   **Primary Font:** Circular, Medium (500), 16px
+-   **Headings:** Circular, Bold (700), 24px–32px
+-   **Secondary Text:** Circular, Book (400), 14px
+
+### Importance of Identifying Design Properties of a Mock up Design
+
+Identifying design properties in a mockup ensures visual consistency, improves communication with developers, supports branding, enables scalability, enhances user experience, simplifies collaboration across teams, and reduces design and development errors.
